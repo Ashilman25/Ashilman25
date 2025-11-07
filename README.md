@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on a **Client Project**
 
-- 👨‍💻 All of my projects are available at [AndrewShilman.dev](AndrewShilman.dev)
+- 👨‍💻 All of my projects are available at **AndrewShilman.dev**
 
-- 💬 Ask me about **NextJS, React, SQL**
+- 💬 Ask me about **NextJS, AI, APIs, Databases, or anything else!**
 
 - 📫 How to reach me **Andrew.Shilman@gmail.com**
 
