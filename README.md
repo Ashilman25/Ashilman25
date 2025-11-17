@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Shilman</h1>
 <h3 align="center">Passionate fullstack developer from the Silicon Valley</h3>
 
-- 🔭 I’m currently working on an **API explorer CLI**
+- 🔭 I’m currently working on a **Microservice private project**
 
 - 👨‍💻 All of my projects are available at **AndrewShilman.dev**
 
