@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at **AndrewShilman.dev**
 
-- 💬 Ask me about **NextJS, AI, APIs, Databases, or anything else!**
+- 💬 Ask me about **System Design, AI, APIs, Databases, or anything else!**
 
 - 📫 How to reach me **Andrew.Shilman@gmail.com**
 
