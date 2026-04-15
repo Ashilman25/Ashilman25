@@ -29,6 +29,14 @@ Building high-performance systems from first principles.
 - 🚀 Turning complex systems into **interactive, visual tools (Algo Explorer)**  
 - 🎯 Goal: Become a **top-tier AI, backend, and DevOps engineer**
 
+---
+
+## 🧩 What I'm Focused On
+
+- Database internals (execution engines, storage, indexing)
+- ML applied to systems (learned optimizers)
+- Efficient, secure, and optimized backends
+
 
 ---
 
@@ -37,23 +45,3 @@ Building high-performance systems from first principles.
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nextjs,nodejs,flask,postgres,mysql,sqlite,docker,kubernetes,git,gcp,firebase,tailwind,tensorflow,pytorch&perline=9" />
 </p>
-
-
----
-
-## 🧩 What I'm Focused On
-
-- Database internals (execution engines, storage, indexing)
-- ML applied to systems (learned optimizers)
-- Building **portfolio projects that stand out technically**
-
----
-
-## 🤝 Let’s Connect
-
-If you're working on:
-- Systems / infra
-- Databases
-- AI + systems crossover  
-
-I’d love to connect.
