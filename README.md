@@ -19,16 +19,7 @@
 
 ## Featured work
  
-- **[ShilmanDB](https://github.com/Ashilman25/ShilmanDB)**: a relational database engine in C++ built from scratch (SQL parser, B+ tree index, Volcano-style executor, buffer pool). Its learned join-order optimizer hits 94.1% exact-match accuracy, and a learned eviction policy beats LRU by 3.64% hit rate.
+- **ShilmanDB**: a relational database engine in C++ built from scratch (SQL parser, B+ tree index, Volcano-style executor, buffer pool). Its learned join-order optimizer hits 94.1% exact-match accuracy, and a learned eviction policy beats LRU by 3.64% hit rate.
 - **text2sql-router** *(in progress)*: small LLMs are cheap but often write wrong SQL. Every question goes to the small model first, and a fast check decides whether to trust it or escalate to a big model, aiming for big-model accuracy while only paying for it on the hard questions.
 - **NN-Steiner reproduction** *(in progress)*: reproducing an AAAI 2024 paper where a neural network guides rectilinear Steiner tree construction for chip wire routing. Found the fix that makes the authors' model match the paper (2.65% above optimal), and now closing the gap on our own retrained model.
 - **LLM agents in production**: agent pipelines processing 20k+ signals a week, every prompt change gated by an eval harness (golden-file regression tests plus an LLM-as-judge at 92% agreement), with 66% lower cost per run from prompt caching and token budgets.
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashilman25/Ashilman25/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashilman25/Ashilman25/output/github-snake.svg"/>
-    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/Ashilman25/Ashilman25/output/github-snake.svg"/>
-  </picture>
-</p>
