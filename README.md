@@ -9,8 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="760" alt="terminal: whoami, what I'm building, and a joke training run"/>
+  <img src="./assets/terminal.svg" width="59%" alt="terminal: whoami, what I'm building, and a joke training run"/>
+  <img src="./assets/gradient-descent.svg" width="39%" alt="ASCII 3D loss landscape with momentum SGD rolling into the minimum"/>
+  <br/>
+  <sub>a 3D loss surface rendered in ASCII, with momentum SGD finding the minimum (pure SVG + CSS, no JS)</sub>
 </p>
+
 
 ## What I'm focused on
 
@@ -18,11 +22,6 @@
 - **ML applied to systems**: learned query optimizers
 - **Backends** that are fast, secure, and actually scale
 
-<p align="center">
-  <img src="./assets/gradient-descent.svg" width="680" alt="ASCII 3D loss landscape with momentum SGD rolling into the minimum"/>
-  <br/>
-  <sub>a 3D loss surface rendered in ASCII, with momentum SGD finding the minimum (pure SVG + CSS, no JS)</sub>
-</p>
 
 
 <p align="center">
