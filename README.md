@@ -24,17 +24,6 @@
   <sub>a 3D loss surface rendered in ASCII, with momentum SGD finding the minimum (pure SVG + CSS, no JS)</sub>
 </p>
 
-## Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nextjs,nodejs,flask,postgres,mysql,sqlite,docker,kubernetes,git,gcp,firebase,tailwind,tensorflow,pytorch&perline=10" />
-</p>
-
-<details>
-<summary><code>$ gcc donut.c && ./a.out</code></summary>
-<br/>
-<p align="center"><img src="./assets/donut.svg" width="560" alt="spinning ASCII donut"/></p>
-</details>
 
 <p align="center">
   <picture>
