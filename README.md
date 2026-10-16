@@ -8,12 +8,11 @@
   <a href="https://andrewshilman.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-
 <p align="center">
-  <img src="./assets/terminal.svg" width="58%" alt="terminal: whoami, what I'm working on, and a joke training run"/>
-  <img src="./assets/gradient-descent.svg" width="40%" alt="ASCII 3D loss landscape with momentum SGD rolling into the minimum"/>
+  <img src="./assets/terminal.svg" width="54%" alt="terminal: whoami and what I'm working on"/>
+  <img src="./assets/train-spiral.svg" width="44%" alt="neural network learning to classify two spirals"/>
   <br/>
-  <sub>a 3D loss surface rendered in ASCII, with momentum SGD finding the minimum (pure SVG + CSS, no JS)</sub>
+  <sub>a small neural net learning to untangle two spirals, trained from scratch in numpy (pure SVG + CSS, no JS)</sub>
 </p>
 
 
